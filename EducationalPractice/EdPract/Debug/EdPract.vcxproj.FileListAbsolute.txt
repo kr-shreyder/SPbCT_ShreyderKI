@@ -1,5 +1,0 @@
-C:\Users\k-shr\source\repos\EdPract\Debug\EdPract.vcxproj.AssemblyReference.cache
-C:\Users\k-shr\source\repos\EdPract\Debug\EdPract.Auth.resources
-C:\Users\k-shr\source\repos\EdPract\Debug\EdPract.Prog.resources
-C:\Users\k-shr\source\repos\EdPract\Debug\EdPract.vcxproj.GenerateResource.cache
-C:\Users\k-shr\source\repos\EdPract\Debug\EdPract.exe

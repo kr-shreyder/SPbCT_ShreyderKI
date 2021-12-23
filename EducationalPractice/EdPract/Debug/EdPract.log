@@ -1,8 +1,0 @@
-﻿  Auth.cpp
-C:\Users\k-shr\source\repos\EdPract\Prog.h(303,20): warning C4101: e: неиспользованная локальная переменная
-  Prog.cpp
-C:\Users\k-shr\source\repos\EdPract\Prog.h(303,20): warning C4101: e: неиспользованная локальная переменная
-  Создание кода...
-  Auth.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  EdPract.vcxproj -> C:\Users\k-shr\source\repos\EdPract\Debug\EdPract.exe
-  Скопировано файлов: 0.
